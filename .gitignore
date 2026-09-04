@@ -1,0 +1,6 @@
+﻿.vscode/
+*.zip
+node_modules/
+target/
+dist/
+.env
